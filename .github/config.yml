@@ -3,7 +3,7 @@
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
 requestInfoReplyComment: >
-  We would appreciate it if you could give us some sort of clue about the reson(s) for this issue / PR!
+  We would appreciate it if you could give us some sort of clue about the reason(s) for this issue / PR!
 
 # Or an array:
 # requestInfoReplyComment:
